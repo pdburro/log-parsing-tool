@@ -1,0 +1,52 @@
+<logs>
+    <log>
+        <timestamp>2025-01-30T00:00:00Z</timestamp>
+        <level>INFO</level>
+        <message>System initialized.</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T00:05:30Z</timestamp>
+        <level>ERROR</level>
+        <message>Database connection lost.</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T00:10:15Z</timestamp>
+        <level>WARNING</level>
+        <message>CPU temperature high.</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T00:15:45Z</timestamp>
+        <level>INFO</level>
+        <message>User 'admin' logged in.</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T00:20:20Z</timestamp>
+        <level>DEBUG</level>
+        <message>Checking cache integrity.</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T00:25:10Z</timestamp>
+        <level>ERROR</level>
+        <message>File not found: config.yaml</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T00:35:35Z</timestamp>
+        <level>CRITICAL</level>
+        <message>Security breach detected!</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T00:50:50Z</timestamp>
+        <level>ERROR</level>
+        <message>Timeout connecting to server.</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T01:10:45Z</timestamp>
+        <level>ERROR</level>
+        <message>Application crash detected.</message>
+    </log>
+    <log>
+        <timestamp>2025-01-30T01:15:55Z</timestamp>
+        <level>CRITICAL</level>
+        <message>Power failure detected!</message>
+    </log>
+</logs>

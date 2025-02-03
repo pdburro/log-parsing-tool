@@ -1,0 +1,22 @@
+{
+    "logs": [
+        {"timestamp": "2025-01-30T00:00:00Z", "level": "INFO", "message": "System initialized."},
+        {"timestamp": "2025-01-30T00:05:30Z", "level": "ERROR", "message": "Database connection lost."},
+        {"timestamp": "2025-01-30T00:10:15Z", "level": "WARNING", "message": "CPU temperature high."},
+        {"timestamp": "2025-01-30T00:15:45Z", "level": "INFO", "message": "User 'admin' logged in."},
+        {"timestamp": "2025-01-30T00:20:20Z", "level": "DEBUG", "message": "Checking cache integrity."},
+        {"timestamp": "2025-01-30T00:25:10Z", "level": "ERROR", "message": "File not found: config.yaml"},
+        {"timestamp": "2025-01-30T00:30:55Z", "level": "INFO", "message": "Scheduled backup completed."},
+        {"timestamp": "2025-01-30T00:35:35Z", "level": "CRITICAL", "message": "Security breach detected!"},
+        {"timestamp": "2025-01-30T00:40:45Z", "level": "INFO", "message": "Restarting network services."},
+        {"timestamp": "2025-01-30T00:45:25Z", "level": "WARNING", "message": "Disk space running low."},
+        {"timestamp": "2025-01-30T00:50:50Z", "level": "ERROR", "message": "Timeout connecting to server."},
+        {"timestamp": "2025-01-30T00:55:05Z", "level": "DEBUG", "message": "Verifying encryption keys."},
+        {"timestamp": "2025-01-30T01:00:15Z", "level": "INFO", "message": "System health check passed."},
+        {"timestamp": "2025-01-30T01:05:30Z", "level": "WARNING", "message": "Memory usage exceeds threshold."},
+        {"timestamp": "2025-01-30T01:10:45Z", "level": "ERROR", "message": "Application crash detected."},
+        {"timestamp": "2025-01-30T01:15:55Z", "level": "CRITICAL", "message": "Power failure detected!"},
+        {"timestamp": "2025-01-30T01:20:35Z", "level": "INFO", "message": "Automatic recovery in progress."},
+        {"timestamp": "2025-01-30T01:25:20Z", "level": "DEBUG", "message": "Loading system modules."}
+    ]
+}
